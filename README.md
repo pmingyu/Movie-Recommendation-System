@@ -4,7 +4,6 @@
 3. Collaborative Filtering (협업 필터링)
 
 Using streamlit, tmdbv3_api, python
-app.py = Content Based Filtering
 
 ![image](https://user-images.githubusercontent.com/93179525/191005865-8be2e760-6fd5-40c1-bd6e-cc705f986a61.png)
 If you choose your favorite movie, you can get recommendations for 10 similar movies.
